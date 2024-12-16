@@ -40,4 +40,6 @@ The dataset includes the following columns:
    ORDER BY salary_in_usd DESC
    LIMIT 5;
 
-
+Resources
+Data Science Job Salaries on Kaggle
+https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
